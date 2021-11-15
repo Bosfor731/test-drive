@@ -40,7 +40,9 @@ body {
 
 /*   !--------------HEADER------------------------- */
 
-
+.header {
+  background-color: darkgreen;
+}
 
 
 
@@ -50,5 +52,20 @@ body {
 
 .hero {
   background-color: blueviolet;
+}
+
+.hero-title {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 30px;
+  text-align: center;
+
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--main-title-color);
 }
 
