@@ -1,0 +1,54 @@
+:root {
+  --main-title-color: #ffffff;
+  --second-title-color: #212121;
+  --main-text-color: #757575;
+  --second-text-color: rgba(255, 255, 255, 0.6);
+  --accent-color: #2196f3;
+  --main-btn-color: #ffffff;
+  --second-btn-color: #212121;
+  --main-header-text-color: #212121;
+  --second-header-text-color: #757575;
+  --second-accent-color: #188ce8;
+}
+
+/*  !Font family: Roboto;
+    ? Font style: Regular;
+    * Font size: 14px;
+    TODO Line height: 24p;x */
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--main-text-color);
+}
+
+/*   !--------------HEADER------------------------- */
+
+
+
+
+
+
+
+/*   !---------------HERO---------------------- */
+
+.hero {
+  background-color: blueviolet;
+}
+
